@@ -14,6 +14,8 @@ Crawling is the discovery process in which search engines send out a team of rob
 
 Googlebot starts out by fetching a few web pages, and then follows the links on those webpages to find new URLs. By hopping along this path of links, the crawler is able to find new content and add it to their index called Caffeine — a massive database of discovered URLs — to later be retrieved when a searcher is seeking information that the content on that URL is a good match for.
 
+![alt text](https://github.com/Awinja-j/Search-Engine-II/blob/main/images/clawling.png)
+
 
 ## What is a search engine index?
 Search engines process and store information they find in an index, a huge database of all the content they’ve discovered and deem good enough to serve up to searchers.
@@ -24,3 +26,4 @@ When someone performs a search, search engines scour their index for highly rele
 It’s possible to block search engine crawlers from part or all of your site, or instruct search engines to avoid storing certain pages in their index. While there can be reasons for doing this, if you want your content found by searchers, you have to first make sure it’s accessible to crawlers and is indexable. Otherwise, it’s as good as invisible.
 
 
+![alt text](https://github.com/Awinja-j/Search-Engine-II/blob/main/images/architecture.png)
